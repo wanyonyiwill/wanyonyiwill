@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wanyonyiwill
 - 👀 I’m interested in ...in web development using python
-- 🌱 I’m currently learning ...programming building block, I am a begiiner in the course
-- 💞️ I’m looking to collaborate on ...Web Development
+- 🌱 I’m currently learning ...programming building block, I am a beginner in the course
+- 💞️ I’m looking to collaborate on ...Web Development and Cyber Security
 - 📫 How to reach me ...+254113176408, williamfred0070@gmail.com
 
 <!---
